@@ -1,6 +1,6 @@
 # appointment_app
 
-Appointment App <i class="fab fa-github"></i>
+Appointment App
 
 ## Getting Started
 
