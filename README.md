@@ -1,6 +1,6 @@
 # appointment_app
 
-A new Flutter project.
+Appointment App <i class="fab fa-github"></i>
 
 ## Getting Started
 
