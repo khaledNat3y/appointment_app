@@ -1,5 +1,5 @@
 # appointment_app
-
+<i class="fa-brands fa-tiktok"></i>
 Appointment App
 
 ## Getting Started
