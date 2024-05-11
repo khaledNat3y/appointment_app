@@ -1,5 +1,6 @@
 # appointment_app
-<i class="fa-brands fa-tiktok"></i>
+![Uploading image.png…]()
+
 Appointment App
 
 ## Getting Started
