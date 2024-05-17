@@ -25,7 +25,7 @@ class GetStartedButton extends StatelessWidget  {
               color: AppColors.primaryColor,
               borderRadius: BorderRadius.circular(16)
           ),
-          child: Text("Get Started", style: AppTheme.font16WhiteSemiBold,)),
+          child: Text("Get Started", style: AppTheme.font16WhiteMedium,)),
     );
   }
 }
